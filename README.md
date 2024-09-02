@@ -1,4 +1,4 @@
-# Curso de creación de módulos en Presashop 8
+# Curso de creación de módulos en Prestashop 8
 Este es el repositorio del curso publicado en Udemy 'Prestashop Desarrollo de Módulos'. 
 
 ## ¿Cómo trabajar con este repositorio?
