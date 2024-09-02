@@ -4,5 +4,5 @@ Este es el repositorio del curso publicado en Udemy 'Prestashop Desarrollo de M�
 ## ¿Cómo trabajar con este repositorio?
 Las tres secciones están disponibles en tres ramas del repositorio:
 
-.- <a href="https://github.com/idealiveconsulting/prestashop-modules-course/tree/Modulo1-HelloWorld">Modulo1-HelloWorld</a> para la primera sección del curso
-.- <a href="https://github.com/idealiveconsulting/prestashop-modules-course/tree/Modulo2-WelcomeShop">Modulo2-WelcomeShop</a> para la segunda sección del curso
+.- [Modulo1-HelloWorld](https://github.com/idealiveconsulting/prestashop-modules-course/tree/Modulo1-HelloWorld) para la primera sección del curso.
+.- [Modulo2-WelcomeShop](https://github.com/idealiveconsulting/prestashop-modules-course/tree/Modulo2-WelcomeShop) para la segunda sección del curso.
